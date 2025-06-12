@@ -2,3 +2,6 @@
 以下のURLのGet Startedにならいnextjsアプリを作成。
 
 https://nextjs.org/learn/dashboard-app
+
+# server start
+pnpm run dev
